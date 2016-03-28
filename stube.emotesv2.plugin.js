@@ -62,8 +62,25 @@ var map = { ":nangry:" : '<img class="image" src="https://i.imgur.com/mWWce.png"
             ":nfakt:" : '<img class="image" src="https://i.imgur.com/A5Vru.png">',
             ":nrolleyes:" : '<img class="image" src="https://i.imgur.com/JYGVM.gif">',
             ":p:" : '<img class="image" src="https://i.imgur.com/KG6DQVu.png">',
-            ":luck:" : '<img class="image" src="https://i.imgur.com/SR6vz5s.png">'
-            };
+            ":luck:" : '<img class="image" src="https://i.imgur.com/SR6vz5s.png">',
+            "._." : '<img class="image" src="https://i.imgur.com/P6SPTuj.gif">',
+            ":3" : '<img class="image" src="https://i.imgur.com/mMJIRoH.gif">',
+            "xD" : '<img class="image" src="https://i.imgur.com/CZ5gcxk.png">',
+            ":U" : '<img class="image" src="https://i.imgur.com/s9Crr5g.gif">',
+            ":kuss:" : '<img class="image" src="https://i.imgur.com/4xwtbbi.gif">',
+            ":oops:" : '<img class="image" src="https://i.imgur.com/rxBUAEb.gif">',
+            ":smug:" : '<img class="image" src="https://i.imgur.com/enEWh1U.gif">',
+            ":sabber:" : '<img class="image" src="https://i.imgur.com/bZgy6Kc.gif">',
+            ":I" : '<img class="image" src="https://i.imgur.com/iTRR5e1.gif">',
+            ":wus:" : '<img class="image" src="https://i.imgur.com/2jFtxIT.gif">',
+            ":eww:" : '<img class="image" src="https://i.imgur.com/DwfFnxq.gif">',
+            ":facepalm:" : '<img class="image" src="https://i.imgur.com/FZKW2aT.gif">',
+            ":mustocle:" : '<img class="image" src="https://i.imgur.com/smw3q79.gif">',
+            ":herp:" : '<img class="image" src="https://i.imgur.com/Ng8iuQl.gif">',
+            ":derp:" : '<img class="image" src="https://i.imgur.com/rQ4lz0p.gif">',
+            ":starr:" : '<img class="image" src="https://i.imgur.com/fXZks3m.png">'
+
+};
 
 StubeEmotes.prototype.emotes = function(messages) {
     //iterate through all messages
