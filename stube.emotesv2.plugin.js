@@ -66,7 +66,6 @@ var map = { ":nangry:" : '<img class="image" src="https://i.imgur.com/mWWce.png"
             "._." : '<img class="image" src="https://i.imgur.com/P6SPTuj.gif">',
             ":3" : '<img class="image" src="https://i.imgur.com/mMJIRoH.gif">',
             "xD" : '<img class="image" src="https://i.imgur.com/CZ5gcxk.png">',
-            ":|" : '<img class="image" src="https://i.imgur.com/Tn19MHu.gif">',
             ":U" : '<img class="image" src="https://i.imgur.com/s9Crr5g.gif">',
             ":kuss:" : '<img class="image" src="https://i.imgur.com/4xwtbbi.gif">',
             ":oops:" : '<img class="image" src="https://i.imgur.com/rxBUAEb.gif">',
@@ -79,7 +78,8 @@ var map = { ":nangry:" : '<img class="image" src="https://i.imgur.com/mWWce.png"
             ":mustocle:" : '<img class="image" src="https://i.imgur.com/smw3q79.gif">',
             ":herp:" : '<img class="image" src="https://i.imgur.com/Ng8iuQl.gif">',
             ":derp:" : '<img class="image" src="https://i.imgur.com/rQ4lz0p.gif">',
-            ":starr:" : '<img class="image" src="https://i.imgur.com/fXZks3m.png">'
+            ":starr:" : '<img class="image" src="https://i.imgur.com/fXZks3m.png">',
+            ":bambus:" : '<img class="image" src="https://i.imgur.com/7vXpELW.gif">'
 
 };
 
