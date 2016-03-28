@@ -66,6 +66,7 @@ var map = { ":nangry:" : '<img class="image" src="https://i.imgur.com/mWWce.png"
             "._." : '<img class="image" src="https://i.imgur.com/P6SPTuj.gif">',
             ":3" : '<img class="image" src="https://i.imgur.com/mMJIRoH.gif">',
             "xD" : '<img class="image" src="https://i.imgur.com/CZ5gcxk.png">',
+            ":|" : '<img class="image" src="https://i.imgur.com/Tn19MHu.gif">',
             ":U" : '<img class="image" src="https://i.imgur.com/s9Crr5g.gif">',
             ":kuss:" : '<img class="image" src="https://i.imgur.com/4xwtbbi.gif">',
             ":oops:" : '<img class="image" src="https://i.imgur.com/rxBUAEb.gif">',
