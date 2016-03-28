@@ -57,7 +57,7 @@ var map = { ":nangry:" : '<img class="image" src="https://i.imgur.com/mWWce.png"
             ":nmustocle:" : '<img class="image" src="https://i.imgur.com/Oh5Bi.png">',
             ":nscience:" : '<img class="image" src="https://i.imgur.com/zqfk4.gif">',
             ":nsad:" : '<img class="image" src="https://i.imgur.com/SW1WA.gif">',
-            "\>3" : '<img class="image" src="https://i.imgur.com/l1tf4K2.png">',
+            ":3:" : '<img class="image" src="https://i.imgur.com/l1tf4K2.png">',
             ":ntoot:" : '<img class="image" src="https://i.imgur.com/nGVHr.png">',
             ":nfakt:" : '<img class="image" src="https://i.imgur.com/A5Vru.png">',
             ":nrolleyes:" : '<img class="image" src="https://i.imgur.com/JYGVM.gif">',
